@@ -1,5 +1,7 @@
 # AR2040RSH Arduinoサンプルソフト
 
+ボードマネージャーは[earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) を使用しています。
+
 ## 1. AD2040RSH_OLED
 AR2040RSHにADRSZLD(OLED表示機）を搭載し表示します。
 前提としてAdafruit_SSD1306とその前提ライブラリのインストールが必要です。  
