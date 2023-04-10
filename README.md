@@ -11,7 +11,7 @@
 
 ## 回路・取り合い [[詳細]](https://github.com/bit-trade-one/AD2040RSH/tree/master/Schematics)
 
-![image](https://user-images.githubusercontent.com/85532743/230870207-e4785447-b59b-4898-bbf5-3f8497ced69b.png)
+![image](https://user-images.githubusercontent.com/85532743/230871287-8d24511f-1405-451d-971c-b89082ab1dd0.png)
 
 
 ---
