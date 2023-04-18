@@ -1,4 +1,4 @@
-# AR2040RSH Arduinoサンプルソフト
+# AD2040RSH Arduinoサンプルソフト
 
 ボードマネージャーは[earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico) を使用しています。
 
