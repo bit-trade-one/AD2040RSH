@@ -2,10 +2,11 @@
 
 ![製品画像]()
 
-(製品説明後日記載)
+「ラズベリーパイ ホストファンクションテスター Pico」は  
+Raspberry Pi PicoをRaspberry Pi として使用するための変換基板です。  
 
 
-## [製品HPリンク](http://bit-trade-one.co.jp/) 
+## [製品HPリンク](https://bit-trade-one.co.jp/ad2040rsh) 
 
 ### [Q&A](FAQ.md)
 
