@@ -21,4 +21,4 @@ Raspberry Pi PicoをRaspberry Pi として使用するための変換基板で�
 
 ビット・トレード・ワンのRaspberryPi HAT  
 ADRSZLD(OLED表示機）[(製品HP)](https://bit-trade-one.co.jp/adrszld/)  / ADRSZBM(BME280温湿度・気圧センサ）[(製品HP)](https://bit-trade-one.co.jp/product/module/adrszbm/) を  
-AD2040RSHで操作させるサンプルソフトです。
+AD2040RSHで使用するためのサンプルソフトです。
