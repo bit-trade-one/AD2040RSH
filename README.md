@@ -1,4 +1,4 @@
-# AD2040RSH / AD2040RSHP
+# AD2040RSH(Pico未実装) / AD2040RSHP（Pico実装済み）
 
 <img src="https://cdn.shopify.com/s/files/1/0512/2264/2842/files/LRedDSC04177_626x564.png?v=1682483868" width="320px">  
 
