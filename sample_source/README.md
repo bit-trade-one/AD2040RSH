@@ -16,7 +16,7 @@ ADRSZLDのSPIは、Raspberry Pi Picoの以下のGPIOにアサインされてい�
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, OLED_MOSI, OLED_CLK, OLED_DC, OLED_RESET, OLED_CS);
 ```
 
-## 2. ADRSZBM(BME280温湿度・気圧センサ）
+## 2. AD2040RSH_BME280
 AR2040RSHにADRSZBM(BME280温湿度・気圧センサ）を搭載し、温度、湿度、気圧等を表示します。
 前提としてAdafruit_BME280とその前提ライブラリのインストールが必要です。  
 ADRSZBMのI2Cは、Raspberry Pi PicoのI2C1のGPIO2/GPIO3にアサインされているので、Adafruitのサンプルソフトの以下を変更しています。
