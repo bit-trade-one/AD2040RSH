@@ -1,4 +1,4 @@
-# AD2040RSH(Pico未実装) / AD2040RSHP（Pico実装済み）
+# AD2040RSH(Pico未実装) / AD2040RSHP(Pico実装済み)
 
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2023/04/1030-1-1024x483.jpg" width="720px">  
 
