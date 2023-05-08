@@ -1,6 +1,6 @@
 # AD2040RSH(Pico未実装) / AD2040RSHP（Pico実装済み）
 
-<img src="https://cdn.shopify.com/s/files/1/0512/2264/2842/files/LRedDSC04177_626x564.png?v=1682483868" width="320px">  
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2023/04/1030-1-1024x483.jpg" width="720px">  
 
 「ラズベリーパイ ホストファンクションテスター Pico」は  
 Raspberry Pi PicoをRaspberry Pi として使用するための変換基板です。  
